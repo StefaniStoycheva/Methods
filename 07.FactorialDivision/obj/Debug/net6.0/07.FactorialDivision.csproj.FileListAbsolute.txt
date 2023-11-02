@@ -1,0 +1,4 @@
+C:\Users\stefs\Desktop\Methods\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefs\Desktop\Methods\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\stefs\Desktop\Methods\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.AssemblyInfo.cs
+C:\Users\stefs\Desktop\Methods\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.csproj.CoreCompileInputs.cache

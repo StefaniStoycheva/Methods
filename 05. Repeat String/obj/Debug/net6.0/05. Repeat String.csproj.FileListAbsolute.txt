@@ -1,0 +1,14 @@
+D:\QA&UnitTesting\Methods\05. Repeat String\bin\Debug\net6.0\05. Repeat String.exe
+D:\QA&UnitTesting\Methods\05. Repeat String\bin\Debug\net6.0\05. Repeat String.deps.json
+D:\QA&UnitTesting\Methods\05. Repeat String\bin\Debug\net6.0\05. Repeat String.runtimeconfig.json
+D:\QA&UnitTesting\Methods\05. Repeat String\bin\Debug\net6.0\05. Repeat String.dll
+D:\QA&UnitTesting\Methods\05. Repeat String\bin\Debug\net6.0\05. Repeat String.pdb
+D:\QA&UnitTesting\Methods\05. Repeat String\obj\Debug\net6.0\05. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA&UnitTesting\Methods\05. Repeat String\obj\Debug\net6.0\05. Repeat String.AssemblyInfoInputs.cache
+D:\QA&UnitTesting\Methods\05. Repeat String\obj\Debug\net6.0\05. Repeat String.AssemblyInfo.cs
+D:\QA&UnitTesting\Methods\05. Repeat String\obj\Debug\net6.0\05. Repeat String.csproj.CoreCompileInputs.cache
+D:\QA&UnitTesting\Methods\05. Repeat String\obj\Debug\net6.0\05. Repeat String.dll
+D:\QA&UnitTesting\Methods\05. Repeat String\obj\Debug\net6.0\refint\05. Repeat String.dll
+D:\QA&UnitTesting\Methods\05. Repeat String\obj\Debug\net6.0\05. Repeat String.pdb
+D:\QA&UnitTesting\Methods\05. Repeat String\obj\Debug\net6.0\05. Repeat String.genruntimeconfig.cache
+D:\QA&UnitTesting\Methods\05. Repeat String\obj\Debug\net6.0\ref\05. Repeat String.dll

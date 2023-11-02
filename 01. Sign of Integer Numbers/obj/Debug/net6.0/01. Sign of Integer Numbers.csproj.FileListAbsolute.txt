@@ -1,0 +1,14 @@
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\bin\Debug\net6.0\01. Sign of Integer Numbers.exe
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\bin\Debug\net6.0\01. Sign of Integer Numbers.deps.json
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\bin\Debug\net6.0\01. Sign of Integer Numbers.runtimeconfig.json
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\bin\Debug\net6.0\01. Sign of Integer Numbers.dll
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\bin\Debug\net6.0\01. Sign of Integer Numbers.pdb
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\obj\Debug\net6.0\01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\obj\Debug\net6.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\obj\Debug\net6.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\obj\Debug\net6.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\obj\Debug\net6.0\01. Sign of Integer Numbers.dll
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\obj\Debug\net6.0\refint\01. Sign of Integer Numbers.dll
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\obj\Debug\net6.0\01. Sign of Integer Numbers.pdb
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\obj\Debug\net6.0\01. Sign of Integer Numbers.genruntimeconfig.cache
+D:\QA&UnitTesting\Methods\01. Sign of Integer Numbers\obj\Debug\net6.0\ref\01. Sign of Integer Numbers.dll
